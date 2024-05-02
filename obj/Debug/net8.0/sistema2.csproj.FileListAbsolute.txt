@@ -1,0 +1,28 @@
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Sistemas2\sistema2\bin\Debug\net8.0\sistema2.exe
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Sistemas2\sistema2\bin\Debug\net8.0\sistema2.deps.json
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Sistemas2\sistema2\bin\Debug\net8.0\sistema2.runtimeconfig.json
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Sistemas2\sistema2\bin\Debug\net8.0\sistema2.dll
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Sistemas2\sistema2\bin\Debug\net8.0\sistema2.pdb
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Sistemas2\sistema2\obj\Debug\net8.0\sistema2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Sistemas2\sistema2\obj\Debug\net8.0\sistema2.AssemblyInfoInputs.cache
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Sistemas2\sistema2\obj\Debug\net8.0\sistema2.AssemblyInfo.cs
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Sistemas2\sistema2\obj\Debug\net8.0\sistema2.csproj.CoreCompileInputs.cache
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Sistemas2\sistema2\obj\Debug\net8.0\sistema2.dll
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Sistemas2\sistema2\obj\Debug\net8.0\refint\sistema2.dll
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Sistemas2\sistema2\obj\Debug\net8.0\sistema2.pdb
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Sistemas2\sistema2\obj\Debug\net8.0\sistema2.genruntimeconfig.cache
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Sistemas2\sistema2\obj\Debug\net8.0\ref\sistema2.dll
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Programa de Registro de Jugadores de Básquet\bin\Debug\net8.0\sistema2.exe
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Programa de Registro de Jugadores de Básquet\bin\Debug\net8.0\sistema2.deps.json
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Programa de Registro de Jugadores de Básquet\bin\Debug\net8.0\sistema2.runtimeconfig.json
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Programa de Registro de Jugadores de Básquet\bin\Debug\net8.0\sistema2.dll
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Programa de Registro de Jugadores de Básquet\bin\Debug\net8.0\sistema2.pdb
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Programa de Registro de Jugadores de Básquet\obj\Debug\net8.0\sistema2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Programa de Registro de Jugadores de Básquet\obj\Debug\net8.0\sistema2.AssemblyInfoInputs.cache
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Programa de Registro de Jugadores de Básquet\obj\Debug\net8.0\sistema2.AssemblyInfo.cs
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Programa de Registro de Jugadores de Básquet\obj\Debug\net8.0\sistema2.csproj.CoreCompileInputs.cache
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Programa de Registro de Jugadores de Básquet\obj\Debug\net8.0\sistema2.dll
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Programa de Registro de Jugadores de Básquet\obj\Debug\net8.0\refint\sistema2.dll
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Programa de Registro de Jugadores de Básquet\obj\Debug\net8.0\sistema2.pdb
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Programa de Registro de Jugadores de Básquet\obj\Debug\net8.0\sistema2.genruntimeconfig.cache
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Programa de Registro de Jugadores de Básquet\obj\Debug\net8.0\ref\sistema2.dll
